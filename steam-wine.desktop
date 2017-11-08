@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Steam Wine
+Exec=/usr/bin/steam-wine
+Icon=steam-wine
+StartupNotify=true

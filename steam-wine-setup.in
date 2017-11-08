@@ -1,0 +1,3 @@
+#!/bin/sh
+PREFIX=/usr
+install -Dm644 "$PREFIX/share/steam-wine/steam-wine.dockitem" "$HOME/.config/plank/dock1/launchers/steam-wine.dockitem"
